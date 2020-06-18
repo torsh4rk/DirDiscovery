@@ -1,13 +1,15 @@
-## DirDiscvery
+## DirDiscovery Tool
 
-![Image of Tool](/Images/Image01.png)
-![Image of Tool](/Images/Image02.png)
-![Image of Tool](/Images/Image03.png)
+# This is a tool to do bruteforce in HTTPS sites
+
+![alt text](/Images/Image01.png "Tool Banner")
+![alt text](/Images/Image02.png "Usage the tool to search directory")
+![alt text](/Images/Image03.png "Usage the tool to search files")
 
 
 ### Install and start this tool
 
-*start Tool:*
+*Steps:*
 ```
 Step 1: git clone https://github.com/torsh4rk/DirDiscovery.git
 
