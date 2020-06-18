@@ -1,6 +1,6 @@
 ## DirDiscovery Tool
 
-# This is a tool to do bruteforce in HTTPS sites
+# This is a tool to search directories in HTTPS sites
 
 ![alt text](/Images/Image01.png "Tool Banner")
 ![alt text](/Images/Image02.png "Usage the tool to search directory")
